@@ -1,0 +1,10 @@
+C:\Users\P114\source\repos\diadasemana\bin\Debug\diadasemana.exe.config
+C:\Users\P114\source\repos\diadasemana\bin\Debug\diadasemana.exe
+C:\Users\P114\source\repos\diadasemana\bin\Debug\diadasemana.pdb
+C:\Users\P114\source\repos\diadasemana\obj\Debug\diadasemana.csprojAssemblyReference.cache
+C:\Users\P114\source\repos\diadasemana\obj\Debug\diadasemana.Form1.resources
+C:\Users\P114\source\repos\diadasemana\obj\Debug\diadasemana.Properties.Resources.resources
+C:\Users\P114\source\repos\diadasemana\obj\Debug\diadasemana.csproj.GenerateResource.cache
+C:\Users\P114\source\repos\diadasemana\obj\Debug\diadasemana.csproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\diadasemana\obj\Debug\diadasemana.exe
+C:\Users\P114\source\repos\diadasemana\obj\Debug\diadasemana.pdb
